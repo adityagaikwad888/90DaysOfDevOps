@@ -1,0 +1,14 @@
+90 Days of DevOps is a structured learning challenge designed to help individuals gain hands-on experience 
+and foundational knowledge in DevOps practices over a period of 90 days.
+
+Each day focuses on a specific topic or tool, gradually building expertise in areas such as:
+- Version control
+- CI/CD
+- Automation
+- Cloud platforms
+- Containerization
+- Monitoring
+- And more
+
+This challenge is ideal for beginners and professionals looking to strengthen their DevOps skills 
+through consistent, practical learning.
