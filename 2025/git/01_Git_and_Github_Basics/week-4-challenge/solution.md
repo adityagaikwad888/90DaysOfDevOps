@@ -86,7 +86,7 @@ Branching strategies are essential for organizing collaborative software develop
 - ✅ **Clean History and Rollbacks**  
   Feature branches can be easily rolled back or removed without polluting the main history.
 
-## 🧪 Common Branching Models
+## 🧪 Some Common Branching Models
 
 - **Git Flow**: Uses `main`, `develop`, `feature/*`, `release/*`, and `hotfix/*`.
 - **GitHub Flow**: Simple strategy for fast delivery; uses `main` and feature branches with PRs.
